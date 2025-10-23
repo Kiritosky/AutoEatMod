@@ -1,5 +1,28 @@
 {
-  "itemGroup.autoeatmod": "Example Mod Tab",
-  "block.autoeatmod.example_block": "Example Block",
-  "item.autoeatmod.example_item": "Example Item"
+  "key.categories.autoeat": "AutoEat",
+  "key.autoeat.toggle": "Toggle AutoEat",
+  "key.autoeat.config": "Open Config",
+  "key.autoeat.addfilter": "Add/Remove Food from Filter",
+
+  "autoeat.config.title": "AutoEat Configuration",
+  "autoeat.config.enabled": "Enabled",
+  "autoeat.config.enabled.tooltip": "Enable or disable automatic eating",
+  "autoeat.config.hungerThreshold": "Hunger Threshold: %s",
+  "autoeat.config.hungerThreshold.tooltip": "Start eating when hunger drops below this level",
+  "autoeat.config.eatUntilFull": "Eat Until Full",
+  "autoeat.config.eatUntilFull.tooltip": "Continue eating until hunger bar is completely full",
+  "autoeat.config.prioritizeBetterFood": "Prioritize Better Food",
+  "autoeat.config.prioritizeBetterFood.tooltip": "Choose food with better saturation values",
+  "autoeat.config.useOffhand": "Use Offhand First",
+  "autoeat.config.useOffhand.tooltip": "Check offhand for food before main inventory",
+  "autoeat.config.pauseOnDamage": "Pause on Damage",
+  "autoeat.config.pauseOnDamage.tooltip": "Stop eating when taking damage",
+  "autoeat.config.pauseCooldown": "Damage Cooldown",
+  "autoeat.config.pauseCooldown.tooltip": "Wait time after damage before eating again",
+  "autoeat.config.showNotifications": "Show Notifications",
+  "autoeat.config.showNotifications.tooltip": "Display toast notifications when toggling",
+
+  "autoeat.toast.toggle": "AutoEat",
+  "autoeat.toast.enabled": "Enabled",
+  "autoeat.toast.disabled": "Disabled"
 }
